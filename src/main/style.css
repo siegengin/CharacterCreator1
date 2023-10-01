@@ -1,0 +1,29 @@
+.root {
+    -fx-font-family: "Press Start 2P";
+    -fx-background-color: #2a2a2a;
+}
+
+.button {
+    -fx-background-color: #008744;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #0057e7;
+    -fx-border-width: 3px;
+    -fx-padding: 10px 20px;
+}
+
+.label {
+    -fx-text-fill: #d62d20;
+    -fx-font-size: 12px;
+    -fx-padding: 5px;
+}
+
+.text-field, .combo-box-base {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #ffa700;
+    -fx-border-width: 3px;
+    -fx-padding: 5px;
+}
+
+.text-field:focused, .combo-box-base:focused {
+    -fx-border-color: #0057e7;
+}
