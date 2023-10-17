@@ -5,33 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02e7d8b9-6783-4b32-b29e-a0f8226ad9f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Character Save.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Error Message.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/UML1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/UML2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/CharacterStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/PressStart2P-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/finaltest/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/finaltest/CharacterCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/CharacterCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/finaltest/LargeCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/LargeCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/finaltest/MediumCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/MediumCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/finaltest/SmallCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/finaltest/SmallCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/finaltest/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/finaltest/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2W8CFED3mPFD7hNIxBhX3jBSVw7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;CSS&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.finaltest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gdev\finaltest\target" />
+      <recent name="F:\gdev\finaltest\src" />
+      <recent name="F:\gdev\finaltest\src\main\resources" />
+      <recent name="F:\gdev\finaltest\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="finalproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="finalproject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +107,8 @@
       <updated>1696104716482</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -1,0 +1,29 @@
+.root {
+    -fx-font-family: "Press Start 2P";
+    -fx-background-color: #f5e9d3; /* faded parchment */
+}
+
+.button {
+    -fx-background-color: #116611; /* deep green */
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #0057e7; /* enchanting blue */
+    -fx-border-width: 3px;
+    -fx-padding: 10px 25px; /* increased padding for larger button feel */
+}
+
+.label {
+    -fx-text-fill: #d4a517; /* royal gold */
+    -fx-font-size: 12px;
+    -fx-padding: 5px;
+}
+
+.text-field, .combo-box-base {
+    -fx-background-color: #fdfcfa; /* off-white */
+    -fx-border-color: #d4a517; /* royal gold */
+    -fx-border-width: 3px;
+    -fx-padding: 5px;
+}
+
+.text-field:focused, .combo-box-base:focused {
+    -fx-border-color: #0057e7; /* enchanting blue */
+}

@@ -1,0 +1,2 @@
+Siege,3,Medium,elf,rogue
+Creature,1,Small,faerie,wizard
